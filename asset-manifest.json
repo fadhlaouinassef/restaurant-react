@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restaurant-react/static/css/main.cc363bab.css",
+    "main.js": "/restaurant-react/static/js/main.d83c9255.js",
+    "static/media/background.jpg": "/restaurant-react/static/media/background.e5464d42ffe9731e0b51.jpg",
+    "static/media/chelli.png": "/restaurant-react/static/media/chelli.a15f9a01bf71e2101a09.png",
+    "index.html": "/restaurant-react/index.html",
+    "main.cc363bab.css.map": "/restaurant-react/static/css/main.cc363bab.css.map",
+    "main.d83c9255.js.map": "/restaurant-react/static/js/main.d83c9255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc363bab.css",
+    "static/js/main.d83c9255.js"
+  ]
+}
